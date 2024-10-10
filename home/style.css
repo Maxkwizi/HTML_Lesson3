@@ -1,0 +1,98 @@
+
+
+.container{
+    max-width: 1146px;
+    margin: 0 auto;
+
+}
+
+.header {
+    padding: 39px 0;
+    background: #0a121f;
+    margin-bottom: 160 px;
+}
+
+.main {
+    margin-bottom: 197px;
+}
+
+.main-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.nav-link {
+    color: #fff;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+
+.content-title {
+    font-weight: 20;
+    font-size: 28px;
+    line-height: 36px;
+    text-transform: uppercase;
+    color: #3a68b8;
+
+}
+.content-subtitle {
+    font-weight: 20;
+    font-size: 55px;
+    line-height: 130%;
+    
+}
+.content-text {
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 160%;
+    opacity: 0.7;
+
+    margin-bottom: 50px;
+    max-width: 558px;
+
+}
+
+.content-button-newer {
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+
+    background: #0fce85;
+    border-radius: 5px;
+    padding: 15px 30px;
+}
+
+.content-button-profi {
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+
+    background: #d13d10;
+    border-radius: 5px;
+    padding: 15px 30px;
+}
+
+.content-btn{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.content-image {
+    text-decoration: none; 
+}
+
+.footer {
+    margin-bottom: 99px;    
+}
+
+.logos {
+    padding: 39px 0;
+    justify-content: center;
+}
